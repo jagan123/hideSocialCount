@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Hide Social Count",
+  "version": "0.1",
+  "description": "Hide numbers from twitter",
+ 
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://twitter.com/*"]
+  },
+  {
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://www.facebook.com/*"]
+  }]
+}
