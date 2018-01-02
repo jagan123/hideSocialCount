@@ -3,7 +3,7 @@
  
   "name": "Hide Social Count",
   "version": "0.2",
-  "description": "Hide numbers from twitter",
+  "description": "Hide numbers from twitter, facebook and instagram",
  
   "content_scripts": [{
     "css": ["styles.css"],
