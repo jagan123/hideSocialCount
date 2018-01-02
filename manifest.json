@@ -12,5 +12,9 @@
   {
     "css": ["styles.css"],
     "matches": ["https://www.facebook.com/*"]
+  },
+  {
+    "css": ["styles.css"],
+    "matches": ["https://www.instagram.com/*"]
   }]
 }
