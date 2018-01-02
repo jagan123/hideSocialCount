@@ -1,19 +1,33 @@
+/* twitter feed */
+
 .ProfileTweet-actionCountForPresentation {
 	font-size: 0 !important
 }
+
+/* fb feed */
 
 .UFIRow {
 	font-size: 0 !important
 }
 
+/* instagram feed */
+
 ._1w76c {
  font-size: 0 !important
 }
+
+/* instagram feed */
 
 ._3gwk6 {
 	font-size: 0 !important
 }
 
+/* linkedin feed */
 .feed-base-social-counts {
+	display: none !important
+}
+
+/* fb business shared post on feed */
+._3399 {
 	display: none !important
 }
